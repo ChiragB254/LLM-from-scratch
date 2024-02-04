@@ -1,3 +1,8 @@
 1706.03762.pdf
 openwebtext.tar.xz
 openwebtext/
+train_split.txt
+val_split.txt
+gpt-v1.ipynb
+model-01.pkl
+*.pkl
